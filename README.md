@@ -22,9 +22,61 @@ In this game, you will play as Robert, a new commuter whom lived in North Jakart
 **- Decision is crucial.** Encounters or big events will occurs sometimes, and Robert should follow your choice. He will get successful, apathy, or bad outcomes, depending on how the choices done. Outside those, choices will appear too which mainly make the difference for Robert's journey.
 
 ![Loopliner third section: "Technicals & frameworks", with a background of a Jakarta commuter train.](https://github.com/lonard2/Loopliner/blob/main/README%20Assets/Section%203.png)
+##
+Loopliner is proud to be fully powered with technologies, all are Apple techs:\
+- **SwiftUI** for the user interface & experience, in overall,\
+- **SwiftData** & local data tech combination for the data handling, including CRUD and data persistance of the whole game,\
+- **CoreText** for implementing custom text within the game,\
+- **CoreGraphics** for building Canvas(es) of the interactive map (whether the journey or the menu one),\
+- **Combine** for handling player journey data within view models,\
+- **AVFoundation** for making the music and sound effect happens in the app,\
+- **AppStorage** for the settings handling, and\
+- **UniformTypeIdentifier** for making drag-and-drop items as Transferable representations.\
+\
+The game is built with Swift Playgrounds 4.6, and was tested without any issues in iPadOS 18.2 & 18.3 (all sizes) and macOS (both Designed for iPad and Mac Catalyst).
 
 ![Loopliner fourth section: "Design & audio-visual", with a background of a Jakarta commuter train station, Klender Baru station, at daytime.](https://github.com/lonard2/Loopliner/blob/main/README%20Assets/Section%204.png)
 
+The design & art of the app is mainly designed by two values: **"infinite and dynamic movement of public transportation"** and **"the beauty of Jakarta's public transportation service"**. 
+With intentional design selection like flat design, modern font, icons used as informative elements, and more, I hope that you could felt those values. Likewise with the audio design, which I intended to have "moving beats" style to capture those, too. The all-electronic audio design really captures that, do you think?
+
 ![Loopliner fifth section: "How to use & play", with a background of a running Jakarta commuter train, taken in Cisauk station at nighttime.](https://github.com/lonard2/Loopliner/blob/main/README%20Assets/Section%206.png)
 
+Want to play or modify the project for improving its experience? It's easy in 4 steps!
+
+1. Download the whole repository via selecting Code button > Download ZIP at the repository's homepage, or
+2. Extract the ZIP file on a folder/intended location
+3. Open the swiftpm on the Swift Playgrounds directly or Xcode (via File > Open/Open Existing Project modal menu)
+4. Voila! You could check the code or experience the game via Preview (Swift Playgrounds) /Simulator (Xcode).
+
 ![Loopliner sixth section: "Credits & acknowledgments", with a background of an another Jakarta commuter train station, Rajawali station, at daytime.](https://github.com/lonard2/Loopliner/blob/main/README%20Assets/Section%205.png)
+
+##
+Thank you for being here (and contributing to it, if you do hehe)! Make the public transportation better, starting from you.
+**Loopliner - Feel, hear, and learn your public transportation.**
+
+## Pictures
+All images shown in the journey are taken by myself,  during period of March - December 2024 in several Jakarta commuter line stations: Rajawali, Kampung Bandan, Tanah Abang, Manggarai, and Cisauk.\
+Exceptions include: 2 Commuter Line train pictures, used in intermission view, which are explicitly declared as public domain via Creative Commons Zero 1.0 license by their owners:\
+- https://commons.wikimedia.org/wiki/File:KRL_205JR.jpg
+- https://commons.wikimedia.org/wiki/File:JR_205_Masuk_Jakarta_Kota.jpg
+All icons used in this game are based on SF Symbols 6.0.
+
+## Text/Typography
+All fonts used are open-source fonts & licensed under SIL Open Font License 1.1 (https://openfontlicense.org/):\
+- Space Grotesk (https://github.com/floriankarsten/space-grotesk)
+- Unica One (https://github.com/etunni/unica)
+- Space Mono (https://github.com/googlefonts/spacemono)
+
+## Music & sound effects
+All music are created by myself, using GarageBand for iOS.\
+Sound effects are all made by freesound_community (https://pixabay.com/users/freesound_community-46691455/) from Pixabay:\
+- button-pressed (https://pixabay.com/sound-effects/button-pressed-38129/)
+- Electric train (https://pixabay.com/sound-effects/electric-train-27377/)
+- Train entering & leaving station (https://pixabay.com/sound-effects/train-entering-and-leaving-station-23301/)
+- correct (https://pixabay.com/sound-effects/correct-38597/) and
+- Short beep tone (https://pixabay.com/sound-effects/short-beep-tone-47916/)
+
+## Art & assets
+All character portraits are made by me in Inkscape, an open-source vector graphics software.\
+In addition to that, app logo & payment assets (card reader, smartphone, etc.) are all drawn in Figma by myself, too.
