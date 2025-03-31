@@ -34,14 +34,14 @@ In this game, you will play as Robert, a new commuter whom lived in North Jakart
 ![Loopliner third section: "Technicals & frameworks", with a background of a Jakarta commuter train.](https://github.com/lonard2/Loopliner/blob/main/README%20Assets/Section%203.png)
 ##
 Loopliner is proud to be fully powered with technologies, all are Apple techs:\
-- **SwiftUI** for the user interface & experience, in overall,\
-- **SwiftData** & local data tech combination for the data handling, including CRUD and data persistance of the whole game,\
-- **CoreText** for implementing custom text within the game,\
-- **CoreGraphics** for building Canvas(es) of the interactive map (whether the journey or the menu one),\
-- **Combine** for handling player journey data within view models,\
-- **AVFoundation** for making the music and sound effect happens in the app,\
-- **AppStorage** for the settings handling, and\
-- **UniformTypeIdentifier** for making drag-and-drop items as Transferable representations.\
+- **SwiftUI** for the user interface & experience, in overall,
+- **SwiftData** & local data tech combination for the data handling, including CRUD and data persistance of the whole game,
+- **CoreText** for implementing custom text within the game,
+- **CoreGraphics** for building Canvas(es) of the interactive map (whether the journey or the menu one),
+- **Combine** for handling player journey data within view models,
+- **AVFoundation** for making the music and sound effect happens in the app,
+- **AppStorage** for the settings handling, and
+- **UniformTypeIdentifier** for making drag-and-drop items as Transferable representations.
 \
 The game is built with Swift Playgrounds 4.6, and was tested without any issues in iPadOS 18.2 & 18.3 (all sizes) and macOS (both Designed for iPad and Mac Catalyst).
 
