@@ -4,6 +4,16 @@
 Designed and created as a submission for the 2025 Swift Student Challenge, held by Apple for the WWDC25.\
 An interactive experience game for guiding you become a smart commuter, available for the iPadOS & macOS platform.
 
+Unfortunately, the game didn't selected for the award in the end, however I gotten many new skills & abilities when working on it.
+Some includes:
+- making use of CoreGraphics' framework Canvas for building interactive (and lively) commuter train system map according to a gameplay's condition,
+- testing out apps/games for multiple Apple platforms with various sizes for visual and technical issues & bugs, especially iPad and macOS, and
+- building accessiblity features for ensuring accessible design, particularly for apps that encountered public interest themes, and
+- attempting to create interesting storytelling (for the essay).
+
+I would like to carry many of those on my future projects.
+Hope you will like this project!
+
 ![Loopliner first section: "About the game", with a background of a Jakarta commuter train station, Jatinegara station, at night.](https://github.com/lonard2/Loopliner/blob/main/README%20Assets/Section%201.png)
 ## Why I made the game
 In these days, public transportation should be a necessity as a way to improve society in my opinion. It positively contributes to the improvement of environment, solidarity, financial, and more, compared with personal transport. However, with the advent of technology, some people are tend to have more individualistic (at least in my observation). I personally believe that all public transportation users (whether it's train, buses, boats, planes, etc.) should be equipped with "smart" attributes that leverage the benefits of those systems. "Smart" in this terms are mainly about being always empathic & mastery on using the systems, as those could support everyone for making public transport better in many terms (such as safety, comfort, and service quality).\
